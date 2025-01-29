@@ -1,2 +1,3 @@
 doc 3 Version 1
 Adding comments in new branch
+Adding new line in master branch
